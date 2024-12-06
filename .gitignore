@@ -1,0 +1,23 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/package
+
+# misc
+.DS_Store
+/.env
+/.env.development
+/.env.test
+/.env.production
+.history
+*.log
+*.zip
+# secrets
+secrets.*.js

@@ -1,0 +1,13 @@
+main {
+  text-align: center;
+  padding: 1em;
+  padding-top: 0;
+  margin: 0 auto;
+  width: 325px;
+  /* height: 576px; */
+  background: #061027;
+  /* background: #061027; */
+  color: #fff;
+  border: none;
+  /* overflow-y: hidden; */
+}

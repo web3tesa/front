@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#tesa-extension-root {
+  z-index: 99999999;
+}
+
+.notification-app {
+  text-align: center;
+  position: fixed;
+  top: 96px;
+  right: 24px;
+  z-index: 9999;
+  background: rgba(18, 28, 50);
+  border: 2px solid rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+}
+
+.benefit-info {
+  display: flex;
+  align-items: center;
+  column-gap: 32px;
+}
+
+.tesa-logo {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: #fff;
+}
+
+.activate-button {
+  border: none;
+  margin-top: 32px;
+  padding: 12px 42px;
+  background: #3772FF;
+  border-radius: 32px;
+  color: #fff;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.remind-later {
+  color: #3772FF;
+  margin-top: 16px;
+  cursor: pointer;
+  user-select: none;
+  font-weight: 300;
+}
+
+.recommend-tesa-notifi {
+  z-index: 99999;
+  position: fixed;
+  width: 100vw;
+  /* height: 72px; */
+}
+
+@keyframes lastcard-height-animation{
+  0% {
+      height: 0;
+      padding: 0;
+  }
+  100% {
+      height: 100%;
+      padding: 0 16px;
+  }
+}
+
+.hover-lastercard-height-animation{
+  animation-fill-mode: forwards;
+}

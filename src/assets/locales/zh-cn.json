@@ -1,0 +1,90 @@
+{
+    "header": {
+        "solWallet": "SOL 钱包",
+        "balance": "余额",
+        "value": "资产",
+        "copy": "复制",
+        "success": "成功",
+        "fail": "失败",
+        "error":"错误"
+    },
+    "dashboard": {
+        "profit": "利润",
+        "value": "持仓",
+        "initial": "成本",
+        "mcap": "市值",
+        "buy": "买",
+        "sell": "卖",
+        "holder": "Holder",
+        "amount":"数量"
+    },
+    "setting": {
+        "botSetting": "设置",
+        "walletSetting": "钱包设置",
+        "slippageConfig": "滑点配置",
+        "buy": "买",
+        "sell": "卖",
+        "transactionPriority": "交易优先级",
+        "mev": "MEV 保护",
+        "mevSpeedFirst": "速度优先",
+        "mevFirst": "MEV优先",
+        "fast": "快速",
+        "turbo": "极速",
+        "language": "语言",
+        "address": "地址",
+        "balance": "余额",
+        "withdraw": "提出",
+        "exportPrivateKey": "导出私钥",
+        "all": "全部",
+        "privateKey": "私钥",
+        "inputAddress":"请输入地址",
+        "back": "返回",
+        "insufficient":"余额不足"
+    },
+    "search": {
+        "searchPlaceholder": "输入合约地址",
+        "memecoin": "Memecoin",
+        "search": "搜索",
+        "price": "价格",
+        "holder": "Holder",
+        "mcap": "市值",
+        "noToken": "暂无代币记录"
+    },
+    "trade": {
+        "confirming": "交易正在确认",
+        "confirmed": "交易已确认",
+        "failed": "失败",
+        "tokenInfo": "代币信息",
+        "ongoing": "检索中",
+        "retrieved": "已检索",
+        "transaction": "交易",
+        "retrieving": "交易数据",
+        "swapSuccessful": "交易成功",
+        "backToHome": "返回首页",
+        "tryAgain": "重试",
+        "buying": "购买中",
+        "selling": "卖出中"
+    },
+    "bottom": {
+        "trading-bot": "交易机器人",
+        "bridge-swap": "跨链交易",
+        "setting": "设置"
+    },
+    "order":{
+        "all":"全部",
+        "buy":"买单",
+        "sell":"卖单",
+        "deposit":"转入",
+        "withdraw":"转出",
+        "time":"时间",
+        "tradingHistory":"交易历史"
+    },
+    "refer": {
+        "referTitle": "推荐赚取 50%",
+        "referLink": "您的推荐链接",
+        "referInvite": "您邀请的用户",
+        "referReward": "累计奖励",
+        "referDesc1": "奖励至少每 24 小时更新一次，并自动存入您的余额。",
+        "referDesc2": "共有三级推荐奖励：您直接邀请的用户的所有费用 40%；您一级推荐用户邀请的用户的所有费用 6%；您二级推荐用户邀请的用户的所有费用 4%。"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "header": {
+        "solWallet": "SOL Wallet",
+        "balance": "Balance",
+        "value": "Value",
+        "copy": "Copy ",
+        "success": "Success",
+        "fail": "Fail",
+        "error":"Error"
+    },
+    "dashboard": {
+        "profit": "Profit",
+        "value": "Value",
+        "initial": "Initial",
+        "mcap": "Mcap",
+        "buy": "BUY",
+        "sell": "SELL",
+        "holder": "Holder",
+        "amount":"Amount"
+    },
+    "setting": {
+        "botSetting": "BOT Setting",
+        "walletSetting": "WALLET SETTING",
+        "slippageConfig": "SLIPPAGE CONFIG",
+        "buy": "BUY",
+        "sell": "SELL",
+        "transactionPriority": "TRANSACTION PRIORITY",
+        "mevProtect": "MEV Protect",
+        "mev": "MEV Protect",
+        "mevSpeedFirst": "Speed First",
+        "mevFirst": "MEV First",
+        "fast": "FAST",
+        "turbo": "TURBO",
+        "language": "LANGUAGE",
+        "address": "Address ",
+        "balance": "Balance",
+        "withdraw": "WithDraw",
+        "exportPrivateKey": "Export Private Key",
+        "all": "All",
+        "privateKey": "Private Key ",
+        "inputAddress": "Input Address",
+        "back": "Back",
+        "insufficient":"Insufficient Balance"
+    },
+    "search": {
+        "searchPlaceholder": "Input CA Buy Memecoin",
+        "memecoin": "Memecoin",
+        "search": "SEARCH",
+        "price": "Price",
+        "holder": "Holder",
+        "mcap": "Mcap",
+        "noToken": "No Token Yet"
+    },
+    "trade": {
+        "confirming": "Transactions is confirming",
+        "confirmed": "Transactions is confirmed",
+        "failed": "Failed",
+        "tokenInfo": "token info ",
+        "ongoing": "ongoing",
+        "retrieved": "retrieved",
+        "transaction": "transaction",
+        "retrieving": "Retrieving transactiondata",
+        "swapSuccessful": "Swap successful",
+        "backToHome": "BACK TO HOME",
+        "tryAgain": "Try Again",
+        "buying": "Buying",
+        "selling": "Selling"
+    },
+    "bottom": {
+        "trading-bot": "TRADING BOT",
+        "bridge-swap": "BRIDGE SWAP",
+        "setting": "SETTING"
+    },
+    "order": {
+        "all": "All",
+        "buy": "Buy",
+        "sell": "Sell",
+        "deposit": "Deposit",
+        "withdraw": "Withdraw",
+        "time": "Time",
+        "tradingHistory": "Trading History"
+    },
+    "refer":{
+        "referTitle":"Refer to earn 50%",
+        "referLink":"Your referal link",
+        "referInvite":"Users you invited",
+        "referReward":"Lifetime Reward",
+        "referDesc1":"Rewards are updated at least every 24 hours and are automatically deposited into your balance.",
+        "referDesc2":"There are a total of three levels of referral rewards: 40% of all fees from users you directly invite; 6% of all fees from users invited by your first level; and 4% of all fees from users invited by your second level."
+    }
+}

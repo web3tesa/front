@@ -1,0 +1,69 @@
+{
+  "name": "Tesa",
+  "displayName": "Tesa: Memecoin Smart Trading Agent",
+  "version": "0.2.1",
+  "author": "**",
+  "description": "",
+  "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "chrome-extension",
+    "react",
+    "vite",
+    "create-chrome-ext"
+  ],
+  "engines": {
+    "node": ">=14.18.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "build:prod": "tsc && vite build --mode production",
+    "build:test": "NODE_ENV=development tsc && vite build --mode development",
+    "preview": "vite preview",
+    "fmt": "prettier --write '**/*.{tsx,ts,json,css,scss,md}'"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.5",
+    "@radix-ui/react-dialog": "^1.1.1",
+    "@solana/web3.js": "^1.95.0",
+    "@tanstack/react-query": "^5.21.7",
+    "@types/react-copy-to-clipboard": "^5.0.7",
+    "@webext-core/messaging": "^1.4.0",
+    "@webext-core/storage": "^1.2.0",
+    "ahooks": "^3.7.10",
+    "axios": "1.7.0-beta.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "cmdk": "^1.0.0",
+    "daisyui": "^4.12.10",
+    "dayjs": "^1.11.11",
+    "lucide-react": "^0.400.0",
+    "react": "^18.2.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18.2.0",
+    "react-draggable": "^4.4.6",
+    "react-toastify": "^10.0.5",
+    "sass": "^1.77.2",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss": "^3.4.3",
+    "tailwindcss-animate": "^1.0.7",
+    "viem": "2.x",
+    "vite-plugin-svgr": "^4.2.0",
+    "webextension-polyfill": "^0.12.0"
+  },
+  "devDependencies": {
+    "@crxjs/vite-plugin": "^2.0.0-beta.19",
+    "@iconify/react": "^4.1.1",
+    "@types/chrome": "^0.0.246",
+    "@types/react": "^18.2.28",
+    "@types/react-dom": "^18.2.13",
+    "@types/webextension-polyfill": "^0.10.7",
+    "@vitejs/plugin-react": "^4.1.0",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.11"
+  }
+}
